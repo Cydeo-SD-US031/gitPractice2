@@ -10,5 +10,7 @@ public class Random {
 
         // this line is edited in github directly.
 
+        // this is second comment
+
     }
 }
